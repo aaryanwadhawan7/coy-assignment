@@ -1,0 +1,428 @@
+[
+  {
+    "id": "p1",
+    "name": "Aarav",
+    "age": 18,
+    "photo": "https://picsum.photos/seed/coy-aarav/600/800",
+    "bio": "Probably reading something right now.",
+    "place": "Indore",
+    "interests": [
+      "Gaming",
+      "Guitar",
+      "Startups"
+    ]
+  },
+  {
+    "id": "p2",
+    "name": "Ananya",
+    "age": 23,
+    "photo": "https://picsum.photos/seed/coy-ananya/600/800",
+    "bio": "Coffee first, opinions second.",
+    "place": "Pune",
+    "interests": [
+      "Dancing",
+      "Poetry",
+      "Hiking",
+      "Anime"
+    ]
+  },
+  {
+    "id": "p3",
+    "name": "Vihaan",
+    "age": 20,
+    "photo": "https://picsum.photos/seed/coy-vihaan/600/800",
+    "bio": "Ask me about my startup idea. Or do not.",
+    "place": "Christ University",
+    "interests": [
+      "Movies",
+      "Poetry",
+      "Badminton"
+    ]
+  },
+  {
+    "id": "p4",
+    "name": "Diya",
+    "age": 24,
+    "photo": "https://picsum.photos/seed/coy-diya/600/800",
+    "bio": "Always up for late-night maggi.",
+    "place": "Christ University",
+    "interests": [
+      "Football",
+      "Movies",
+      "Startups"
+    ]
+  },
+  {
+    "id": "p5",
+    "name": "Arjun",
+    "age": 21,
+    "photo": "https://picsum.photos/seed/coy-arjun/600/800",
+    "bio": "I make a mean playlist.",
+    "place": "IIIT Hyderabad",
+    "interests": [
+      "Football",
+      "Guitar",
+      "Coding"
+    ]
+  },
+  {
+    "id": "p6",
+    "name": "Isha",
+    "age": 18,
+    "photo": "https://picsum.photos/seed/coy-isha/600/800",
+    "bio": "Looking for someone to split fries with.",
+    "place": "BITS Pilani",
+    "interests": [
+      "Movies",
+      "Chess",
+      "Badminton"
+    ]
+  },
+  {
+    "id": "p7",
+    "name": "Kabir",
+    "age": 22,
+    "photo": "https://picsum.photos/seed/coy-kabir/600/800",
+    "bio": "Fluent in sarcasm and memes.",
+    "place": "Delhi University",
+    "interests": [
+      "Gym",
+      "Chess",
+      "Football"
+    ]
+  },
+  {
+    "id": "p8",
+    "name": "Meera",
+    "age": 20,
+    "photo": "https://picsum.photos/seed/coy-meera/600/800",
+    "bio": "Weekend trekker, weekday napper.",
+    "place": "BITS Pilani",
+    "interests": [
+      "Photography",
+      "Cooking",
+      "Badminton",
+      "Books"
+    ]
+  },
+  {
+    "id": "p9",
+    "name": "Rohan",
+    "age": 24,
+    "photo": "https://picsum.photos/seed/coy-rohan/600/800",
+    "bio": "Ask me about my startup idea. Or do not.",
+    "place": "Pune",
+    "interests": [
+      "Anime",
+      "Chai",
+      "Gym"
+    ]
+  },
+  {
+    "id": "p10",
+    "name": "Saanvi",
+    "age": 20,
+    "photo": "https://picsum.photos/seed/coy-saanvi/600/800",
+    "bio": "Ask me about my startup idea. Or do not.",
+    "place": "VIT Bhopal",
+    "interests": [
+      "Poetry",
+      "Anime",
+      "Chai",
+      "Coding"
+    ]
+  },
+  {
+    "id": "p11",
+    "name": "Aditya",
+    "age": 19,
+    "photo": "https://picsum.photos/seed/coy-aditya/600/800",
+    "bio": "I make a mean playlist.",
+    "place": "IIT Bombay",
+    "interests": [
+      "Hiking",
+      "Photography",
+      "Guitar",
+      "Travel"
+    ]
+  },
+  {
+    "id": "p12",
+    "name": "Kiara",
+    "age": 24,
+    "photo": "https://picsum.photos/seed/coy-kiara/600/800",
+    "bio": "Weekend trekker, weekday napper.",
+    "place": "Indore",
+    "interests": [
+      "Coding",
+      "Cooking",
+      "Gaming"
+    ]
+  },
+  {
+    "id": "p13",
+    "name": "Ishaan",
+    "age": 25,
+    "photo": "https://picsum.photos/seed/coy-ishaan/600/800",
+    "bio": "Fluent in sarcasm and memes.",
+    "place": "VIT Bhopal",
+    "interests": [
+      "Travel",
+      "Anime",
+      "Dancing"
+    ]
+  },
+  {
+    "id": "p14",
+    "name": "Riya",
+    "age": 21,
+    "photo": "https://picsum.photos/seed/coy-riya/600/800",
+    "bio": "Fluent in sarcasm and memes.",
+    "place": "Bangalore",
+    "interests": [
+      "Chai",
+      "Football",
+      "Gym",
+      "Books"
+    ]
+  },
+  {
+    "id": "p15",
+    "name": "Dev",
+    "age": 20,
+    "photo": "https://picsum.photos/seed/coy-dev/600/800",
+    "bio": "Weekend trekker, weekday napper.",
+    "place": "Christ University",
+    "interests": [
+      "Photography",
+      "Dancing",
+      "Coding",
+      "Travel"
+    ]
+  },
+  {
+    "id": "p16",
+    "name": "Navya",
+    "age": 25,
+    "photo": "https://picsum.photos/seed/coy-navya/600/800",
+    "bio": "I make a mean playlist.",
+    "place": "Christ University",
+    "interests": [
+      "Dancing",
+      "Gym",
+      "Gaming"
+    ]
+  },
+  {
+    "id": "p17",
+    "name": "Krish",
+    "age": 18,
+    "photo": "https://picsum.photos/seed/coy-krish/600/800",
+    "bio": "Always up for late-night maggi.",
+    "place": "Delhi University",
+    "interests": [
+      "Photography",
+      "Travel",
+      "Poetry"
+    ]
+  },
+  {
+    "id": "p18",
+    "name": "Tara",
+    "age": 18,
+    "photo": "https://picsum.photos/seed/coy-tara/600/800",
+    "bio": "I make a mean playlist.",
+    "place": "Mumbai",
+    "interests": [
+      "Badminton",
+      "Football",
+      "Startups"
+    ]
+  },
+  {
+    "id": "p19",
+    "name": "Neil",
+    "age": 21,
+    "photo": "https://picsum.photos/seed/coy-neil/600/800",
+    "bio": "Will debug your code and your overthinking.",
+    "place": "IIT Bombay",
+    "interests": [
+      "Gym",
+      "Books",
+      "Football"
+    ]
+  },
+  {
+    "id": "p20",
+    "name": "Anika",
+    "age": 19,
+    "photo": "https://picsum.photos/seed/coy-anika/600/800",
+    "bio": "Probably reading something right now.",
+    "place": "Delhi University",
+    "interests": [
+      "Badminton",
+      "Cooking",
+      "Travel"
+    ]
+  },
+  {
+    "id": "p21",
+    "name": "Yash",
+    "age": 20,
+    "photo": "https://picsum.photos/seed/coy-yash/600/800",
+    "bio": "Ask me about my startup idea. Or do not.",
+    "place": "Delhi University",
+    "interests": [
+      "Football",
+      "Coding",
+      "Gaming"
+    ]
+  },
+  {
+    "id": "p22",
+    "name": "Myra",
+    "age": 20,
+    "photo": "https://picsum.photos/seed/coy-myra/600/800",
+    "bio": "I make a mean playlist.",
+    "place": "NIT Bhopal",
+    "interests": [
+      "Books",
+      "Travel",
+      "Startups"
+    ]
+  },
+  {
+    "id": "p23",
+    "name": "Parth",
+    "age": 22,
+    "photo": "https://picsum.photos/seed/coy-parth/600/800",
+    "bio": "Always up for late-night maggi.",
+    "place": "VIT Bhopal",
+    "interests": [
+      "Photography",
+      "Badminton",
+      "Poetry",
+      "Guitar"
+    ]
+  },
+  {
+    "id": "p24",
+    "name": "Sia",
+    "age": 22,
+    "photo": "https://picsum.photos/seed/coy-sia/600/800",
+    "bio": "Always up for late-night maggi.",
+    "place": "Indore",
+    "interests": [
+      "Hiking",
+      "Anime",
+      "Cooking"
+    ]
+  },
+  {
+    "id": "p25",
+    "name": "Rahul",
+    "age": 23,
+    "photo": "https://picsum.photos/seed/coy-rahul/600/800",
+    "bio": "Always up for late-night maggi.",
+    "place": "NIT Bhopal",
+    "interests": [
+      "Dancing",
+      "Football",
+      "Travel",
+      "Books"
+    ]
+  },
+  {
+    "id": "p26",
+    "name": "Zoya",
+    "age": 25,
+    "photo": "https://picsum.photos/seed/coy-zoya/600/800",
+    "bio": "Coffee first, opinions second.",
+    "place": "BITS Pilani",
+    "interests": [
+      "Poetry",
+      "Movies",
+      "Hiking"
+    ]
+  },
+  {
+    "id": "p27",
+    "name": "Karan",
+    "age": 19,
+    "photo": "https://picsum.photos/seed/coy-karan/600/800",
+    "bio": "Fluent in sarcasm and memes.",
+    "place": "IIT Bombay",
+    "interests": [
+      "Coding",
+      "Hiking",
+      "Gaming"
+    ]
+  },
+  {
+    "id": "p28",
+    "name": "Pooja",
+    "age": 18,
+    "photo": "https://picsum.photos/seed/coy-pooja/600/800",
+    "bio": "Always up for late-night maggi.",
+    "place": "Delhi University",
+    "interests": [
+      "Coding",
+      "Badminton",
+      "Chai"
+    ]
+  },
+  {
+    "id": "p29",
+    "name": "Veer",
+    "age": 24,
+    "photo": "https://picsum.photos/seed/coy-veer/600/800",
+    "bio": "Ask me about my startup idea. Or do not.",
+    "place": "IIT Bombay",
+    "interests": [
+      "Coding",
+      "Cooking",
+      "Badminton",
+      "Travel"
+    ]
+  },
+  {
+    "id": "p30",
+    "name": "Aisha",
+    "age": 18,
+    "photo": "https://picsum.photos/seed/coy-aisha/600/800",
+    "bio": "Fluent in sarcasm and memes.",
+    "place": "IIIT Hyderabad",
+    "interests": [
+      "Badminton",
+      "Cooking",
+      "Travel",
+      "Books"
+    ]
+  },
+  {
+    "id": "p31",
+    "name": "Nikhil",
+    "age": 23,
+    "photo": "https://picsum.photos/seed/coy-nikhil/600/800",
+    "bio": "Looking for someone to split fries with.",
+    "place": "Mumbai",
+    "interests": [
+      "Hiking",
+      "Chai",
+      "Cooking"
+    ]
+  },
+  {
+    "id": "p32",
+    "name": "Simran",
+    "age": 23,
+    "photo": "https://picsum.photos/seed/coy-simran/600/800",
+    "bio": "Collector of tiny adventures.",
+    "place": "Pune",
+    "interests": [
+      "Gym",
+      "Football",
+      "Chai"
+    ]
+  }
+]
