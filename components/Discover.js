@@ -87,7 +87,7 @@ export default function Discover() {
 
       {view === 'swipe' && (
         <>
-          {someoneLikesYou && (
+          {someoneLikesYou && current && (
             <p className="hint">Someone likes you. Keep swiping to find out who.</p>
           )}
           <div className="deck">
